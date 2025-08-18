@@ -1,0 +1,1 @@
+package org.example.dp;public class Dimension1 {}
